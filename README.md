@@ -94,12 +94,26 @@ Check out my repositories to follow my progress and see what I'm building.
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Marcus56480&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170">
+  <a href="https://github.com/Marcus56480">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Marcus56480&cache_seconds=7200&layout=compact&theme=tokyonight&border_radius=10" alt="Marcus56480's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=Marcus56480&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Marcus56480's GitHub Streak" width="49%" />
 </p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=Marcus56480&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="'s GitHub Trophies" />
+</p>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
+  <img alt="Breakout Game" src="https://raw.githubusercontent.com/cyprieng/github-breakout/main/example/light.svg" />
+</picture>
+
+
 
 ---
 
