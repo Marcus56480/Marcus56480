@@ -1,47 +1,135 @@
-<h1 align="left">Seja Bem-Vindo(a) ao meu Perfil! 😁</h1>
+<p align="center">
+  <img src="./assets/banner.png" width="100%" alt="Marcus Vinícius GitHub Banner">
+</p>
+<p align="center" >
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anton&duration=2000&pause=1000&color=2C1BFF&background=72E2FF00&center=true&vCenter=true&width=435&lines=Hello%2C+i'm+Marcus+;Systems+Analysis+and+Development+;Learning+something+new+every+day" alt="Typing SVG" /></a>
+<p/>
+<p align="center">
+  <strong>Systems Analysis and Development Student</strong>
+</p>
 
-###
+<p align="center">
+  <em>Turning ideas into projects, and projects into solutions.</em>
+</p>
 
-<p align="center">Prazer sou Marcus, moro em diadema, sou estudante de Analise e Desenvolvimento de Sistemas</p>
+---
 
-###
+## 👨‍💻 About Me
 
-<h2 align="left">Sobre Mim 👍</h2>
+I'm currently studying **Systems Analysis and Development**, with a strong interest in **software development, web development, IoT, APIs, cloud computing, and embedded systems**.
 
-###
+I enjoy turning ideas into projects, exploring new technologies, and continuously improving my programming skills through hands-on development.
 
-<p align="left">🎮 Gosto de Jogos<br>📖 Gosto de Ler<br>⚽Gosto de esportes como Futsal e Futebol<br>🐈‍⬛Adoro Animais</p>
+I'm always looking for new challenges, opportunities to learn, and ways to transform what I learn into practical projects.
 
-###
+---
 
-<h2 align="left">Tecnologias</h2>
+## 🎯 Focus Areas
 
-###
+* 💻 **Software Development**
+* 🧑‍💻 **Web Development**
+* 🔌 **IoT & Embedded Systems**
+* 🌐 **APIs & Backend Development**
+* ☁️ **Cloud Computing**
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-</div>
+---
 
-###
+## 🛠️ Technologies & Tools
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+</p>
+
+### 🌐 Web & Backend
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/API-FF6F00?style=for-the-badge&logo=fastapi&logoColor=white" alt="APIs">
+</p>
+
+### 🔌 IoT & Embedded Systems
+
+<p>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" alt="MQTT">
+</p>
+
+### ☁️ Cloud & Tools
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+</p>
+
+---
+
+## 🚀 What I'm Working On
+
+* 🔭 Building personal and academic projects
+* 🌱 Improving my software development skills
+* 🔌 Exploring IoT and embedded systems
+* ☁️ Learning more about cloud computing and AWS
+* 🌐 Developing projects involving APIs and backend systems
+* 🧠 Continuously learning and experimenting with new technologies
+
+---
+
+## 📂 Featured Projects
+
+> 🚧 **More projects coming soon...**
+
+I'm constantly working on new projects to expand my knowledge and build my portfolio.
+
+Check out my repositories to follow my progress and see what I'm building.
+
+---
+
+## 📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Marcus56480&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170">
+</p>
+
+---
+
+## 💡 Currently Learning
+
+```text
+Software Development   ███████████████░░░░░
+Web Development        ████████████░░░░░░░░
+IoT & Embedded Systems ███████████░░░░░░░░░
+APIs & Backend         ██████████░░░░░░░░░░
+Cloud Computing        ████████░░░░░░░░░░░░
+```
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/Marcus56480">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+<p align="center">
+  <em>“Build. Learn. Repeat.”</em>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
