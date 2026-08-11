@@ -1,9 +1,4 @@
-<p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Marcus Vinícius GitHub Banner">
-</p>
-<p align="center" >
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Anton&duration=2000&pause=1000&color=2C1BFF&background=72E2FF00&center=true&vCenter=true&width=435&lines=Hello%2C+i'm+Marcus+;Systems+Analysis+and+Development+;Learning+something+new+every+day" alt="Typing SVG" /></a>
-<p/>
+
 <p align="center">
   <strong>Systems Analysis and Development Student</strong>
 </p>
